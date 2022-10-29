@@ -184,8 +184,12 @@ main {
     position: absolute;
     right: 0;
     left: 0;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
     top: 6.7rem;
     padding: 0.7rem 1rem;
+    justify-content: center;
   }
 
   .storage-values-container::after {

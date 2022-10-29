@@ -174,6 +174,9 @@ main {
   .flex-item-two {
     width: 100%;
   }
+  .flex-item-two {
+    height: 150px;
+  }
 
   .flex-container {
     flex-wrap: wrap;
@@ -187,6 +190,7 @@ main {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
     top: 6.7rem;
     padding: 0.7rem 1rem;
     justify-content: center;
